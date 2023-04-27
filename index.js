@@ -4,7 +4,7 @@ console.log("Hey you! Yeah you! Awesome Developer! You're doing Great Fam! 💪�
 
 const meObj = {
     name: "Natyka",
-    hometown: "The Virgin Islands to The Boogie-Down - BX 🙅🏾‍♂️,STAND UP",
+    hometown: "The Virgin Islands to The Boogie-Down - BX 🙅🏾‍♂️, STAND UP",
     favoriteColors: ["red", "yellow", "purple", "pink"]
 }
 
