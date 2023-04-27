@@ -10,9 +10,8 @@ const meObj = {
 
 
 function introduceMe (personObj){
-    // print out: "Hi, my name is {your name}, and I'm from {your hometown}"
-
-    // print out: "My favorite colors are {your favorite colors}"
+    console.log(`Hi, my name is ${personObj.name}, and I'm from ${personObj.hometown}`);
+    console.log(`My favorite colors are ${personObj.favoriteColors.join(", ")}`);
 }
 
 introduceMe(meObj)
