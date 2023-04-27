@@ -15,4 +15,4 @@ function introduceMe (personObj){
     console.log(`Hi, my name is ${personObj.myName}, and I'm from ${personObj.hometown}`);
     // print out: "My favorite colors are {your favorite colors}"
 }
-    introduceMe("meObj");
+    introduceMe(meObj);
