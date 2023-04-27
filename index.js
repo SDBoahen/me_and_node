@@ -11,10 +11,7 @@ const meObj = {
 function introduceMe(meObj){
     console.log(`Hi, my name is ${meObj.name}, and I'm from ${meObj.hometown}`);
 
-    console.log(`My favorite colors are ${meObj.favoriteColors[0]}, 
-    ${meObj.favoriteColors[1]}, 
-    ${meObj.favoriteColors[2]}, and 
-    ${meObj.favoriteColors[3]}.`);
+    console.log(`My favorite colors are ${meObj.favoriteColors[0]}, ${meObj.favoriteColors[1]}, ${meObj.favoriteColors[2]}, and ${meObj.favoriteColors[3]}.`);
 };
 
 introduceMe(meObj);
