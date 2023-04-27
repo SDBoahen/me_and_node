@@ -1,5 +1,9 @@
-# Change This - Make this About ✨YOU✨
+#  ✨Jeremy Montes - A Cool and Calm Software Engineer in the Making✨
 
-## There's an index.js file in this code base. You have two goals:
-- Alter the `meObj` so it matches relevant information about ✨YOU✨
-- Complete the logic in the `introduceMe` function to print out the 2 statments that the comments are guiding you to print out.
+## Fun Facts About Me:
+
+-  ✨I play 5 instruments✨
+-  I worked as an EMT for five years. 
+-  I have a B.S. in Psychology.
+-  I am Haitian American
+-  I love going on adventures and taking risks.
