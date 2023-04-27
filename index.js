@@ -14,3 +14,5 @@ function introduceMe (personObj){
 
     // print out: "My favorite colors are {your favorite colors}"
 }
+
+introduceMe(meObj)
