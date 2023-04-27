@@ -1,4 +1,4 @@
-# Change This - Make this About ✨YOU✨
+# Aspiring Full Stack Developer :nerd_face:
 
 ## There's an index.js file in this code base. You have two goals:
 - Alter the `meObj` so it matches relevant information about ✨YOU✨
