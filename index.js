@@ -1,16 +1,18 @@
-console.log("Hey you! Yeah you! Awesome Developer! You're doing Great Fam! 💪🧑‍💻🙌")
+//console.log("Hey you! Yeah you! Awesome Developer! You're doing Great Fam! 💪🧑‍💻🙌")
 
 
 
 const meObj = {
-    name: "Sam",
-    hometown: "The Boogie-Down - BX 🙅🏾‍♂️",
-    favoriteColors: ["gold", "navy blue", "forest green", "red"]
+    name: "Jackie",
+    hometown: "Queens",
+    favoriteColors: ["Gray", "navy blue", "sea green", "red"]
 }
 
 
 function introduceMe (personObj){
-    // print out: "Hi, my name is {your name}, and I'm from {your hometown}"
-
+    console.log(`Hi, my name is ${personObj.name}, and I'm from ${personObj.hometown}.`)
+    // print out: "Hi, my name is {name}, and I'm from {hometown}"
+    console.log(`My favorite colors are ${personObj.favoriteColors}`)
     // print out: "My favorite colors are {your favorite colors}"
 }
+ introduceMe(meObj) ;
